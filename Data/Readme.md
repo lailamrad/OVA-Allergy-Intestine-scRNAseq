@@ -6,5 +6,7 @@ Data is in DataDen under 9905-LR_Pool02 and samples are assigned as follows:
 	9905-LR-5: OVA NP Post-Ch7 SILP
 	9905-LR-6: PBS Post-Ch7 SILP
 
+Data and study design is publically available in the NIH GEO Database at Accession ID: GSE300948 (Not available until paper submission)
+
 "samples_submitted_scRNAseq.xlsx" file provides info about individual samples that were pooled together and clinical outcomes for OFC 7 timepoint (Clinical score, Temperature, 
 Diarrhea Incidence, Mast Cell Degranulation, OVA-specific Antibody Titers)
