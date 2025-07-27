@@ -3,4 +3,4 @@
 scRNAseq analysis: 
 - "LMR_KGpipeline_integrated.SILP.R" file  cluster ID and differential expression analysis using R package Seurat
 
-- "" file receptor-ligand analysis using R package CellChat
+- "allergy_scRNAseq_cellchat.R" file receptor-ligand analysis using R package CellChat
