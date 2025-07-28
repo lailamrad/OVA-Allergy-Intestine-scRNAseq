@@ -2,7 +2,7 @@
 
 Data and study design is publically available in the NIH GEO Database at Accession ID: GSE300948 (Not available until paper submission)
 
-Study Summary: Polymeric allergen-loaded nanoparticles (NPs) were used as a treatment for a murine model of food allergies. To study the immune changes due to allergic disease and NP treatment, single-cell RNA sequencing of the small intestine lamina propria (SILP) was done at various timepoints. This study investigates immune dynamics in allergic and NP-treated mice before and after OFC-induced anaphylaxis. 
+Study Summary: Polymeric allergen-loaded nanoparticles (NPs) were used as a treatment for a murine model of food allergies. To study the immune changes due to allergic disease and NP treatment, single-cell RNA sequencing of the small intestine lamina propria (SILP) was done at various timepoints. This study investigates immune dynamics in allergic and NP-treated mice before and after oral food challenge (OFC)-induced anaphylaxis. 
 
 - OVA-alum sensitization female BALB/cJ mice (Day 0 and 14)
 - Treatment: i.v. OVA NPs or vehicle (Day 28 and 42)
