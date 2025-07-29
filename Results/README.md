@@ -1,6 +1,6 @@
 # Figures
 ## Intestine scRNAseq Results:
 
-
+<img src ="https://github.com/lailamrad/OVA-Allergy-Intestine-scRNAseq/blob/main/Results/FIG%205_Bcells_scRNAseq3-01.png" width = "1000" />
 
 Single-cell RNA sequencing of SILP show distinct regulatory and pathogenic B cell communication after aeNP treatment. Mice sensitized with OVA-alum on days 0 and 14 were treated with OVA NPs on days 28 and 42, and SILP were harvested for single-cell RNA sequencing after OFC 4 on day 53 and after OFC 7 on day 60. Cell types identified shown in the UMAP visualization (A). The proportion of B cell lineage cell types of all cell types over time and treatment (B). Signaling networks at OFC 7 of allergic and OVA NP-treated SILP ranked based on the number of interactions. Signaling pathway names labelled in red or blue are significantly different by paired Wilcoxon test p<0.05 in PBS- or OVA NP-treated mice respectively (C). Circle plot (D) or chord diagrams (E) show arrows going from source cells to target cells. Receptor or ligand genes are placed on the outside circumference. IL4 signaling at OFC 7 for both PBS- and OVA NP-treated SILP (D). Upregulated CD23 signaling in SILPs of OVA NP-treated mice from PBS controls at OFC 7 (E). Upregulated MHC-II signaling at OFC 7 in SILPs of OVA NP-treated and PBS-treated mice. Cartoon illustration of immune cell communication was created with BioRender.com (F).
